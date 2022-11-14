@@ -19,6 +19,7 @@
 <b>
 <b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouhaerr&show_icons=true&locale=en&layout=compact" alt="nouhaerr" /></p>
+ <b>
 <b>
 <b>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouhaerr&show_icons=true&locale=en" alt="nouhaerr" /></p>
