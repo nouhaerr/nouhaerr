@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="100%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
+![MasterHead](https://fbcouv.com/wp-content/uploads/2017/02/nuage-binaire-zero-un.jpg) 
 <h1 align="center">Hi 👋, I'm Nouhaila</h1>
 <h3 align="center">1337(42 Network) student</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="Coding" width="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
 - 🌱 I’m currently learning **JS, PHP,DataBase**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nouhaila-errakeb-64054018a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouhaila-errakeb-64054018a" height="30" width="40" /></a>
 </p>
-
+<b>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/claha0m0f00300gl1qwjtgy94/stats?cursusId=21&coalitionId=77" alt="nerrakeb's 42 stats" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
