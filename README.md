@@ -1,4 +1,4 @@
-![MasterHead](https://fbcouv.com/wp-content/uploads/2017/02/nuage-binaire-zero-un.jpg) 
+![MasterHead](https://raw.githubusercontent.com/DevRezaur/DevRezaur/main/images/coder.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Nouhaila</h1>
 <h3 align="center">1337(42 Network) student</h3>
 <img align="right" alt="Coding" width="380" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
