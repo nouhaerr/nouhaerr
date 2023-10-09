@@ -1,4 +1,3 @@
-![MasterHead](https://fbcouv.com/wp-content/uploads/2017/02/nuage-binaire-zero-un.jpg)
 <h1 align="center">Hi 👋, I'm Nouhaila</h1>
 <h3 align="center">I'm a Software Engineering student at <a href="http://www.fsts.ac.ma/">FSTS</a></h3>
 <h3 align="center">Also studying in <a href= "https://um6p.ma/fr/ecole-1337">UM6P-1337(42 Network)</a></h3>
