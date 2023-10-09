@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, PHP,DataBase**
 
-- Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+- Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
 Ask me anything <a href="https://github.com/nouhaerr/nouhaerr/issues">here</a> or send me an email.
 
 - 📫 How to reach me **nerrakeb@gmail.com**
