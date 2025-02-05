@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouhaila</h1>
-<h3 align="center">I'm a Software Engineering student at <a href="http://www.fsts.ac.ma/">FSTS</a></h3>
+<h3 align="center">Software Engineering from <a href="http://www.fsts.ac.ma/">FSTS</a></h3>
 <h3 align="center">Also studying in <a href= "https://um6p.ma/fr/ecole-1337">UM6P-1337(42 Network)</a></h3>
 <img align="right" alt="Coding" width="380" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
