@@ -3,7 +3,7 @@
 <h3 align="center">Also studying in <a href= "https://um6p.ma/fr/ecole-1337">UM6P-1337(42 Network)</a></h3>
 <img align="right" alt="Coding" width="380" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
-- 🌱 I’m currently learning **JS, PHP,DataBase**
+- 🌱 I’m currently learning **Angular/JAVA(SpringBoot)**
 
 - Please feel free to clone/fork projects, raise issues and submit if you think something could be better.
 Ask me anything <a href="https://github.com/nouhaerr/nouhaerr/issues">here</a> or send me an email.
